@@ -43,7 +43,7 @@ Here you will find:
 
 | Format | What It Is | Who It's For |
 |---|---|---|
-| ⚡ **Hackathons** | Fast-paced team building sprints solving real problems with prizes and mentorship. | Beginners & experienced builders |
+| ⚡ **Hackathons** | Fast-paced team building sprints solving real problems with prizes and mentorship. | All student developers |
 | 🛠️ **Hands-on Workshops** | Practical sessions where you build alongside the speaker (Git, Web, Cloud, ML, etc.). | Anyone eager to learn new tech |
 | 🎙️ **Tech Talks** | Insightful talks by senior students, alumni, and industry engineers sharing deep technical insights. | Everyone |
 | 🏆 **Coding Contests** | Algorithm sprints and competitive programming challenges to sharpen problem-solving skills. | CP enthusiasts & interview preppers |
@@ -69,7 +69,7 @@ Are you passionate about a technology, framework, tool, or project? Share your k
 1. Open an issue in this repository using the title `[Proposal] <Your Session Title>`.
 2. Include:
    - Topic and brief abstract
-   - Target audience (Beginner / Intermediate / Advanced)
+   - Target audience (Foundational / Intermediate / Advanced)
    - Duration and format (Hands-on workshop, talk, AMA)
    - Prerequisites / required tools
 3. Maintainers and community members will coordinate date, venue, and logistical support.
